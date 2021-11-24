@@ -24,6 +24,7 @@ span {
 #menu_bar {
   margin-bottom: 0.8em;
   padding: 0.3em;
+  padding-left: 4em;
   background-color: #888;
   font-size: 1.0em;
 }
