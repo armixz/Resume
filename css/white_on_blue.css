@@ -25,7 +25,7 @@ span {
   margin-bottom: 0.8em;
   padding: 0.3em;
   padding-left: 3.8em;
-  background-color: #888;
+  background-color: rgb(158, 158, 158);
   font-size: 1.0em;
 }
 
@@ -45,7 +45,7 @@ span {
 .content {
   display: block;
   position: absolute;
-  background-color: #888;
+  background-color: rgb(59, 59, 59);
   visibility: hidden;
 }
 
@@ -66,7 +66,7 @@ span {
 #main_content {
   font-size: 0.8em;
   padding: 0.8em;
-  caret-color: rgba(203, 255, 60, 0.85);
+  caret-color: rgba(255, 251, 0, 0.85);
 }
 
 .page {
